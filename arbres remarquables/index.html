@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>L'Arbrondissement</title>
+    <link rel="stylesheet" href="css.css" />
+    <script src="script.js" async defer></script>
+  </head>
+  <body>
+    <h1>L'Arbrondissement remarquable de Paris</h1>
+    <form>
+      <label class="fichier">
+        <input type="file" id="fileInput" /><br />
+        <button type="submit">Remarquer</button>
+      </label>
+      <label>
+        <br />Tous
+        <input type="checkbox" class="checkbox" value="Tous" />
+      </label>
+      <label>
+        <br />Chêne
+        <input type="checkbox" class="checkbox" value="Chêne" />
+      </label>
+      <label>
+        <br />Cèdre
+        <input type="checkbox" class="checkbox" value="Maronier" /> 
+      </label>
+      <label>
+        <br />Hêtre
+        <input type="checkbox" class="checkbox" value="Tous" />
+      </label>
+      <label>
+        <br />Marronnier
+        <input type="checkbox" class="checkbox" value="Tous" />
+      </label>
+    </form>
+    <div class="carte">
+      <div class="arbre" id="arbre1">
+        <img src="Green.png" />
+        <div class="info">
+          <ul>
+            <li class="espece">Cèdre</li>
+            <li class="adresse">2 Bd Henri IV, Paris</li>
+            <li class="hauteur"> Mesure 12 mètres </li>
+            <li class="circonference"> Circonférence de 133 cm</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arbre" id="arbre2">
+        <img src="Green.png" />
+        <div class="info">
+          <ul>
+            <li class="espece">Chêne </li>
+            <li class="adresse">28 Bd Jourdan, Paris</li>
+            <li class="hauteur"> 15 mètres </li>
+            <li class="circonference"> Circonférence de 255 cm</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arbre" id="arbre3">
+        <img src="green.png" />
+        <div class="info">
+          <ul>
+            <li class="espece">Hêtre</li>
+            <li class="adresse">60 Bd Lannes</li>
+            <li class="hauteur"> Mesure 15 mètres </li>
+            <li class="circonference"> Circonférence de 320 cm</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arbre" id="arbre4">
+        <img src="green.png" />
+        <div class="info">
+          <ul>
+            <li class="espece">Marronnier</li>
+            <li class="adresse">Place du Général Catroux</li>
+            <li class="hauteur"> Mesure 26 mètres </li>
+            <li class="circonference"> Circonférence de 385 cm</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arbre" id="arbre5">
+        <img src="green.png" />
+        <div class="info">
+          <ul>
+            <li class="espece">Chêne</li>
+            <li class="adresse">21 Rue Rottembourg</li>
+            <li class="hauteur"> Mesure 26 mètre </li>
+            <li class="circonference"> Circonférence de 169 cm</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arbre" id="arbre6">
+        <img src="green.png" />
+        <div class="info">
+          <ul>
+            <li class="espece">Cèdre</li>
+            <li class="adresse">Carrefour de Longchamp</li>
+            <li class="hauteur"> Mesure 25 mètre </li>
+            <li class="circonference"> Circonférence de 468 cm</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arbre" id="arbre7">
+        <img src="green.png" />
+        <div class="info">
+          <ul>
+            <li class="espece">Marronnier</li>
+            <li class="adresse">50 Avenue Gambetta</li>
+            <li class="hauteur"> Mesure 26 mètres </li>
+            <li class="circonference"> Circonférence de 380 cm</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="tronc2" class="arbre" id="pop" onclick="showStuff('pop')"></div>
+    <div class="tronc">
+      <div id="leaves">
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+      </div>
+    </div>
+    <div class="container podium">
+      <div class="podium__item">
+        <p class="podium__tree">Hêtre</p>
+        <div class="podium__rank second">12 individus</div>
+      </div>
+      <div class="podium__tree">
+        <p class="podium__tree">Platane</p>
+        <div class="podium__rank first">32 individus
+        </div>
+    </div>
+      <div class="podium__item">
+        <p class="podium__tree">Chêne</p>
+        <div class="podium__rank third">11 individus</div>
+      </div>
+    </div>
+    <h2>Podium des types d'arbres les plus représentés</h2>
+  </body>
+</html>

@@ -1,0 +1,86 @@
+LE PLUS LARGE
+108 095
+Platane
+Platanus
+x hispanica
+695     !!!!!!!!!!!!!!!!!!CIRCONFERENCE INSANE !!!!!!!!!!!!!!!!!!!
+25 m
+Jardin
+1 janvier 1700 01:02
+JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE / SETE
+Arbre
+PARIS 7E ARRDT
+Canton 01 / SETE
+0108001
+Mature
+Inconnue
+OUI
+
+---------------------------------------------
+LE PLUS VIEUX
+----------------
+124 358
+Robinier
+Robinia
+pseudoacacia
+365
+9 m
+Jardin
+1 janvier 1602 01:02
+SQUARE RENE VIVIANI MONTEBELLO / 2 RUE DU FOUARRE
+Arbre
+PARIS 5E ARRDT
+000401001
+Mature
+Inconnue
+OUI
+--------------------------------------------------
+LE PLUS GRAND
+-------------------------
+	
+2 002 389
+Platane
+Platanus
+x hispanica
+534
+45 m !!!!!!!!!!!!!!!!!
+Jardin
+1 janvier 1872 01:02
+ROUTE DU LAC A BAGATELLE
+Arbre
+BOIS DE BOULOGNE
+16-10
+001201001
+Mature
+Inconnue
+OUI
+-----------------------------------------------------
+Arbre emplacement le plus chere au m² (23 000)
+
+216766.0	Paulownia	Paulownia	tomentosa	RUE DE FURSTE
+MBERG	Arbre	Alignement	PARIS 6E ARRDT			101001	295.0	15.0	Mature	Guillot Bourne		1999-01-25T02:00:00+01:00	OUI	48.854273288210244,2.335735254677113
+
+
+0(blanc) < 1-9(vert clair) < 10-20(vert moyen) < +20 (Vert foncé)
+
+1er : 1 = low
+2eme :  null
+3eme : 3 = low
+4eme : 6 = low
+5eme : 6 = low
+6eme : 1 = low
+7eme : 10 = mid
+8eme : 6 = low
+9eme : 2 = low
+10eme arrondissement : 1 low
+11eme arrond. : 1 low
+12eme arrond : 3+vincenne 24 = high
+13eme : 4 = low
+14eme : 10 = mid
+15eme : 6 = low
+16eme : 27 + boulogne 24 = very high
+17eme : 8 = low
+18eme : 10 = mid
+19eme : 10 = mid
+20eme : 14 = mid
+

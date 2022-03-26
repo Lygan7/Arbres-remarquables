@@ -1,0 +1,877 @@
+%!Adobe-FontList 1.22
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Black
+FamilyName:Barlow Condensed
+StyleName:Black
+FullName:Barlow Condensed Black
+MenuName:Barlow Condensed Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90720
+FileModTime:1508968800
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Black
+NameArray:0,Win,1,Barlow Condensed Black
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-BlackItalic
+FamilyName:Barlow Condensed
+StyleName:Black Italic
+FullName:Barlow Condensed Black Italic
+MenuName:Barlow Condensed Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92052
+FileModTime:1508968800
+WeightClass:900
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Black Italic
+NameArray:0,Win,1,Barlow Condensed Black
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Bold
+FamilyName:Barlow Condensed
+StyleName:Bold
+FullName:Barlow Condensed Bold
+MenuName:Barlow Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89880
+FileModTime:1508968800
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Bold
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-BoldItalic
+FamilyName:Barlow Condensed
+StyleName:Bold Italic
+FullName:Barlow Condensed Bold Italic
+MenuName:Barlow Condensed
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92228
+FileModTime:1508968800
+WeightClass:700
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Bold Italic
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraBold
+FamilyName:Barlow Condensed
+StyleName:ExtraBold
+FullName:Barlow Condensed ExtraBold
+MenuName:Barlow Condensed ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90244
+FileModTime:1508968800
+WeightClass:800
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed ExtraBold
+NameArray:0,Win,1,Barlow Condensed ExtraBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraBoldItalic
+FamilyName:Barlow Condensed
+StyleName:ExtraBold Italic
+FullName:Barlow Condensed ExtraBold Italic
+MenuName:Barlow Condensed ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92448
+FileModTime:1508968800
+WeightClass:800
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Barlow Condensed ExBold Italic
+NameArray:0,Mac,4,Barlow Condensed ExtraBold Italic
+NameArray:0,Win,1,Barlow Condensed ExtraBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraLight
+FamilyName:Barlow Condensed
+StyleName:ExtraLight
+FullName:Barlow Condensed ExtraLight
+MenuName:Barlow Condensed ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:82604
+FileModTime:1508968800
+WeightClass:275
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed ExtraLight
+NameArray:0,Win,1,Barlow Condensed ExtraLight
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraLightItalic
+FamilyName:Barlow Condensed
+StyleName:ExtraLight Italic
+FullName:Barlow Condensed ExtraLight Italic
+MenuName:Barlow Condensed ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88584
+FileModTime:1508968800
+WeightClass:275
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Barlow Condensed ExLight Italic
+NameArray:0,Mac,4,Barlow Condensed ExtraLight Italic
+NameArray:0,Win,1,Barlow Condensed ExtraLight
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Italic
+FamilyName:Barlow Condensed
+StyleName:Italic
+FullName:Barlow Condensed Italic
+MenuName:Barlow Condensed
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89932
+FileModTime:1508968800
+WeightClass:400
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Italic
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Light
+FamilyName:Barlow Condensed
+StyleName:Light
+FullName:Barlow Condensed Light
+MenuName:Barlow Condensed Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83044
+FileModTime:1508968800
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Light
+NameArray:0,Win,1,Barlow Condensed Light
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-LightItalic
+FamilyName:Barlow Condensed
+StyleName:Light Italic
+FullName:Barlow Condensed Light Italic
+MenuName:Barlow Condensed Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88992
+FileModTime:1508968800
+WeightClass:300
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Light Italic
+NameArray:0,Win,1,Barlow Condensed Light
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Medium
+FamilyName:Barlow Condensed
+StyleName:Medium
+FullName:Barlow Condensed Medium
+MenuName:Barlow Condensed Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83928
+FileModTime:1508968800
+WeightClass:500
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Medium
+NameArray:0,Win,1,Barlow Condensed Medium
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-MediumItalic
+FamilyName:Barlow Condensed
+StyleName:Medium Italic
+FullName:Barlow Condensed Medium Italic
+MenuName:Barlow Condensed Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90104
+FileModTime:1508968800
+WeightClass:500
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Medium Italic
+NameArray:0,Win,1,Barlow Condensed Medium
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Regular
+FamilyName:Barlow Condensed
+StyleName:Regular
+FullName:Barlow Condensed Regular
+MenuName:Barlow Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83364
+FileModTime:1508968800
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Regular
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-SemiBold
+FamilyName:Barlow Condensed
+StyleName:SemiBold
+FullName:Barlow Condensed SemiBold
+MenuName:Barlow Condensed SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89916
+FileModTime:1508968800
+WeightClass:600
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed SemiBold
+NameArray:0,Win,1,Barlow Condensed SemiBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-SemiBoldItalic
+FamilyName:Barlow Condensed
+StyleName:SemiBold Italic
+FullName:Barlow Condensed SemiBold Italic
+MenuName:Barlow Condensed SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92440
+FileModTime:1508968800
+WeightClass:600
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed SemiBold Italic
+NameArray:0,Win,1,Barlow Condensed SemiBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Thin
+FamilyName:Barlow Condensed
+StyleName:Thin
+FullName:Barlow Condensed Thin
+MenuName:Barlow Condensed Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:81844
+FileModTime:1508968800
+WeightClass:250
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Thin
+NameArray:0,Win,1,Barlow Condensed Thin
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ThinItalic
+FamilyName:Barlow Condensed
+StyleName:Thin Italic
+FullName:Barlow Condensed Thin Italic
+MenuName:Barlow Condensed Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\BarlowCondensed-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87948
+FileModTime:1508968800
+WeightClass:250
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Thin Italic
+NameArray:0,Win,1,Barlow Condensed Thin
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Black
+FamilyName:Barlow Condensed
+StyleName:Black
+FullName:Barlow Condensed Black
+MenuName:Barlow Condensed Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90720
+FileModTime:1508968800
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Black
+NameArray:0,Win,1,Barlow Condensed Black
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-BlackItalic
+FamilyName:Barlow Condensed
+StyleName:Black Italic
+FullName:Barlow Condensed Black Italic
+MenuName:Barlow Condensed Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92052
+FileModTime:1508968800
+WeightClass:900
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Black Italic
+NameArray:0,Win,1,Barlow Condensed Black
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Bold
+FamilyName:Barlow Condensed
+StyleName:Bold
+FullName:Barlow Condensed Bold
+MenuName:Barlow Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89880
+FileModTime:1508968800
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Bold
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-BoldItalic
+FamilyName:Barlow Condensed
+StyleName:Bold Italic
+FullName:Barlow Condensed Bold Italic
+MenuName:Barlow Condensed
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92228
+FileModTime:1508968800
+WeightClass:700
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Bold Italic
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraBold
+FamilyName:Barlow Condensed
+StyleName:ExtraBold
+FullName:Barlow Condensed ExtraBold
+MenuName:Barlow Condensed ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90244
+FileModTime:1508968800
+WeightClass:800
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed ExtraBold
+NameArray:0,Win,1,Barlow Condensed ExtraBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraBoldItalic
+FamilyName:Barlow Condensed
+StyleName:ExtraBold Italic
+FullName:Barlow Condensed ExtraBold Italic
+MenuName:Barlow Condensed ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92448
+FileModTime:1508968800
+WeightClass:800
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Barlow Condensed ExBold Italic
+NameArray:0,Mac,4,Barlow Condensed ExtraBold Italic
+NameArray:0,Win,1,Barlow Condensed ExtraBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraLight
+FamilyName:Barlow Condensed
+StyleName:ExtraLight
+FullName:Barlow Condensed ExtraLight
+MenuName:Barlow Condensed ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:82604
+FileModTime:1508968800
+WeightClass:275
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed ExtraLight
+NameArray:0,Win,1,Barlow Condensed ExtraLight
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ExtraLightItalic
+FamilyName:Barlow Condensed
+StyleName:ExtraLight Italic
+FullName:Barlow Condensed ExtraLight Italic
+MenuName:Barlow Condensed ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88584
+FileModTime:1508968800
+WeightClass:275
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Barlow Condensed ExLight Italic
+NameArray:0,Mac,4,Barlow Condensed ExtraLight Italic
+NameArray:0,Win,1,Barlow Condensed ExtraLight
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Italic
+FamilyName:Barlow Condensed
+StyleName:Italic
+FullName:Barlow Condensed Italic
+MenuName:Barlow Condensed
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89932
+FileModTime:1508968800
+WeightClass:400
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Italic
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Light
+FamilyName:Barlow Condensed
+StyleName:Light
+FullName:Barlow Condensed Light
+MenuName:Barlow Condensed Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83044
+FileModTime:1508968800
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Light
+NameArray:0,Win,1,Barlow Condensed Light
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-LightItalic
+FamilyName:Barlow Condensed
+StyleName:Light Italic
+FullName:Barlow Condensed Light Italic
+MenuName:Barlow Condensed Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88992
+FileModTime:1508968800
+WeightClass:300
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Light Italic
+NameArray:0,Win,1,Barlow Condensed Light
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Medium
+FamilyName:Barlow Condensed
+StyleName:Medium
+FullName:Barlow Condensed Medium
+MenuName:Barlow Condensed Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83928
+FileModTime:1508968800
+WeightClass:500
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Medium
+NameArray:0,Win,1,Barlow Condensed Medium
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-MediumItalic
+FamilyName:Barlow Condensed
+StyleName:Medium Italic
+FullName:Barlow Condensed Medium Italic
+MenuName:Barlow Condensed Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90104
+FileModTime:1508968800
+WeightClass:500
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Medium Italic
+NameArray:0,Win,1,Barlow Condensed Medium
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Regular
+FamilyName:Barlow Condensed
+StyleName:Regular
+FullName:Barlow Condensed Regular
+MenuName:Barlow Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83364
+FileModTime:1508968800
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Regular
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-SemiBold
+FamilyName:Barlow Condensed
+StyleName:SemiBold
+FullName:Barlow Condensed SemiBold
+MenuName:Barlow Condensed SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89916
+FileModTime:1508968800
+WeightClass:600
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed SemiBold
+NameArray:0,Win,1,Barlow Condensed SemiBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-SemiBoldItalic
+FamilyName:Barlow Condensed
+StyleName:SemiBold Italic
+FullName:Barlow Condensed SemiBold Italic
+MenuName:Barlow Condensed SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92440
+FileModTime:1508968800
+WeightClass:600
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed SemiBold Italic
+NameArray:0,Win,1,Barlow Condensed SemiBold
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Thin
+FamilyName:Barlow Condensed
+StyleName:Thin
+FullName:Barlow Condensed Thin
+MenuName:Barlow Condensed Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:81844
+FileModTime:1508968800
+WeightClass:250
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Barlow Condensed Thin
+NameArray:0,Win,1,Barlow Condensed Thin
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-ThinItalic
+FamilyName:Barlow Condensed
+StyleName:Thin Italic
+FullName:Barlow Condensed Thin Italic
+MenuName:Barlow Condensed Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\BarlowCondensed-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87948
+FileModTime:1508968800
+WeightClass:250
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Barlow Condensed Thin Italic
+NameArray:0,Win,1,Barlow Condensed Thin
+NameArray:0,Win,16,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\Barlow_Condensed\OFL.txt
+FileModTime:1508968800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\user\Desktop\arbres remarquables\Font\OFL.txt
+FileModTime:1508968800
+%EndFont
+
